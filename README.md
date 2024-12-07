@@ -1,1 +1,1 @@
-# Clutter-Free-Mail: Your-Newsletter-Digest-Tool
+# Clutter Free Mail: Your Newsletter Digest Tool
